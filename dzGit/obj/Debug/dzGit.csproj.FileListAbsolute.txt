@@ -1,0 +1,7 @@
+C:\Users\UN_Lem\source\repos\dzGit\dzGit\bin\Debug\dzGit.exe.config
+C:\Users\UN_Lem\source\repos\dzGit\dzGit\bin\Debug\dzGit.exe
+C:\Users\UN_Lem\source\repos\dzGit\dzGit\bin\Debug\dzGit.pdb
+C:\Users\UN_Lem\source\repos\dzGit\dzGit\obj\Debug\dzGit.csprojAssemblyReference.cache
+C:\Users\UN_Lem\source\repos\dzGit\dzGit\obj\Debug\dzGit.csproj.CoreCompileInputs.cache
+C:\Users\UN_Lem\source\repos\dzGit\dzGit\obj\Debug\dzGit.exe
+C:\Users\UN_Lem\source\repos\dzGit\dzGit\obj\Debug\dzGit.pdb
